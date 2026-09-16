@@ -1,0 +1,10 @@
+.git/
+node_modules/
+.data/
+.cache/
+dist/
+.git
+node_modules
+.data
+.cache
+dist

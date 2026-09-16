@@ -1,0 +1,6 @@
+{
+  "name": "Clarkwan Sink",
+  "description": "企业级智能短链接生成与访问数据分析平台，支持自定义后缀、访问密码保护、后台管理系统与开发者接口。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
